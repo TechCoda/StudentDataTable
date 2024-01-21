@@ -2,7 +2,7 @@
 //  student.cpp
 //  studentData_Table
 //
-//  Created by Rayyan Kerkmaz on 12/22/23.
+//  Created by TechCoda on 12/22/23.
 //
 
 #include <iostream>
