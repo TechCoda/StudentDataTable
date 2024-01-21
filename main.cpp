@@ -1,7 +1,7 @@
 //  main.cpp
 //  studentData_Table
 //
-//  Created by Rayyan Kerkmaz on 12/21/23.
+//  Created by TechCoda on 12/21/23.
 //
 #include <iostream>
 #include <string>
@@ -13,8 +13,8 @@ int main() {
     // Print information about the course, language, WGU student ID, and name.
     std::cout << "Course Title: C867-Scripting & Programming: Applications\n";
     std::cout << "Language: C++\n";
-    std::cout << "Student ID: 010683870\n";
-    std::cout << "Name: Rayyan Kerkmaz\n\n";
+    std::cout << "Student ID: 10101027\n";
+    std::cout << "Name: TechCoda\n\n";
 
     // F2: ROSTER CLASS INSTANCE
     // Creating a Roster object
