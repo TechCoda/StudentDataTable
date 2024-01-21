@@ -2,7 +2,7 @@
 //  degree.h
 //  studentData_Table
 //
-//  Created by Rayyam Kerkmaz on 12/22/23.
+//  Created by TechCoda on 12/22/23.
 //
 //
 #ifndef DEGREE_H
