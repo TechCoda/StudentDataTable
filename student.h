@@ -2,7 +2,7 @@
 //  student.h
 //  studentData_Table
 //
-//  Created by Rayyan Kerkmaz on 12/22/23.
+//  Created by TechCoda on 12/22/23.
 //
 
 #ifndef STUDENT_H
