@@ -39,7 +39,7 @@ This project implements a Student Data Management System where students' informa
 
 ### Prerequisites
 
-- C++ development environment (e.g., Visual Studio, Code::Blocks).
+- C++ development environment (e.g., Visual Studio, Xcode).
 - Standard C++ libraries.
 
 ### Installation
